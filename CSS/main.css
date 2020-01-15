@@ -21,12 +21,12 @@ body{
     width: 100%;
     position: fixed; 
     top: 0;
-    float: left; 
+    float: right; 
     /* background-color: #333; */
   }
   
   .topnav a {
-    float: left;  
+    float: right;  
     display: block;
     color: black;
     text-align: center;
