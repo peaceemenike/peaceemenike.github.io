@@ -184,7 +184,7 @@ section.content{
     background-color: darkblue;
     color: white;
 }
-.skills{
+.my-skills{
     background-image: url(../img/my\ services4.jpg);
     background-color: var(--clr-accent);
     background-size: cover;
