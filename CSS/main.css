@@ -226,7 +226,7 @@ section.content{
     max-width: 1500px;
     margin: 2.5em;
     flex: 33.33%;
-   text-align: justify; 
+   text-align: left; 
 }
 
 .my-title{
