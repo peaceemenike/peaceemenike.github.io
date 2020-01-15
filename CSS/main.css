@@ -213,7 +213,7 @@ section.content{
         display: flex;
         max-width: 1200px;
         margin: 0 auto; 
-     text-align: start;  
+     text-align: left;  
     }
 }
 .skills{
