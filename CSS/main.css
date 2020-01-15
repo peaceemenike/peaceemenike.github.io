@@ -109,7 +109,7 @@ section.content{
         max-width: 1500px;
         margin: 0 auto;
         /* padding-right: 20px; */
-/*        text-align: justify;  */
+      text-align: start;  
     }
     .img{
         background-size: cover;
@@ -213,7 +213,7 @@ section.content{
         display: flex;
         max-width: 1200px;
         margin: 0 auto; 
-/*      text-align: justify;  */
+     text-align: start;  
     }
 }
 .skills{
