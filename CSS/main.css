@@ -109,7 +109,7 @@ section.content{
         max-width: 1500px;
         margin: 0 auto;
         /* padding-right: 20px; */
-        text-align: justify;
+/*         text-align: justify; */
     }
     .img{
         background-size: cover;
@@ -138,7 +138,7 @@ section.content{
     margin: 0 auto;
     margin:0 2em;
     font-size: large;
-    text-align: justify;
+/*     text-align: justify; */
 }
 .aboutme-title{
     font-size: 3em;
@@ -213,7 +213,7 @@ section.content{
         display: flex;
         max-width: 1200px;
         margin: 0 auto; 
-        text-align: justify;
+/*         text-align: justify; */
     }
 }
 .skills{
@@ -226,7 +226,7 @@ section.content{
     max-width: 1500px;
     margin: 2.5em;
     flex: 33.33%;
-    text-align: justify;
+/*     text-align: justify; */
 }
 
 .my-title{
@@ -255,7 +255,7 @@ section.content{
   border-radius: 5px;
   color: black;
   border: 1px solid lightgray;
-  text-align: justify;
+/*   text-align: justify; */
   padding: 10px;
 }
 .portfolio-column>a:hover{
