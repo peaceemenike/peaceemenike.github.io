@@ -26,7 +26,7 @@ body{
   }
   
   .topnav a {
-    float: right; 
+    float: left; 
     display: block;
     color: black;
     text-align: center;
@@ -56,7 +56,7 @@ body{
   @media screen and (max-width: 800px) {
     .topnav a:not(:first-child) {display: none;}
     .topnav a.icon {
-    float: right; 
+    float: left; 
       display: block;
     }
   }
