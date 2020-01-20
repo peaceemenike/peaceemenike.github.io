@@ -43,6 +43,25 @@
         }
         </script>
         
+        
+        <script>
+function myFunction() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Read more"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Read less"; 
+    moreText.style.display = "inline";
+  }
+}
+</script>
+        
 
 <section id="img-container">
      <img id="slideshow" src="./img/codenija3.jpg"> 
@@ -70,9 +89,11 @@
         <div class="about">
         <p class="aboutme-text">I'm a software developer based in Lagos, Nigeria. I started my web application in 2018. I am a programmer who values lifelong learning and am also a quick learner and always up to learn new things.
         I have a strong passion in web development, both front end and back end design. I am also a team player and i like to help others and make work easier for them.</p>
+            <span id="dots">...</span><span id="more">
         <p>I also love to design using photoshop and coreldraw. I design peoples logo, display ad banner, etc. I have a huge passion of designing peoples banner ad and logo</p>
           
-        <p> I'm also a digital marketer who loves business, i manage peoples social-media account, market peoples businesses online using different platforms. With my yers of experience as a digital marketer expert i have been able to manage peoples businesses and mine as well.</p> 
+        <p> I'm also a digital marketer who loves business, i manage peoples social-media account, market peoples businesses online using different platforms. With my yers of experience as a digital marketer expert i have been able to manage peoples businesses and mine as well.</span></p>
+            <button onclick="myFunction()" id="myBtn">Read more</button>
         <span class="address">
         <a><i class="fas fa-envelope"></i>emenikepeace2@gmail.com</a>
         <a> <i class="fas fa-phone-alt"></i>+2348133456718</a>
