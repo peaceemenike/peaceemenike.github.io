@@ -143,8 +143,6 @@ section.content{
 .aboutme-title{
     font-size: 3em;
 }
-
-#more {display: none;}
 .address>a{
     padding-right: 18px;
     text-decoration: none;
