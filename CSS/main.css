@@ -258,8 +258,8 @@ section.content{
 
 .portfolio-column>a{
   text-decoration: none;
-  border: 1px solid;
-  border-radius: 5px;
+  border: 1px solid darkblue;
+  border-radius: 5px darkblue;
   color: black;
   border: 1px solid lightgray;
   text-align: justify; 
