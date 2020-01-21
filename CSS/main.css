@@ -17,7 +17,7 @@ body{
 
 .topnav {
     overflow: hidden;
-   background-color: light-grey; 
+   background-color: gray; 
     width: 100%;
     position: fixed; 
     top: 0;
@@ -28,7 +28,7 @@ body{
   .topnav a {
     float: right;  
     display: block;
-    color: black;
+    color: white;
     text-align: center;
     padding: 30px 0.02px;
     text-decoration: none;
