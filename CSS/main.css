@@ -17,7 +17,7 @@ body{
 
 .topnav {
     overflow: hidden;
-   background-color: gray; 
+   background-color: black; 
     width: 100%;
     position: fixed; 
     top: 0;
@@ -45,7 +45,7 @@ body{
   }
   
   .topnav a.active {
-    color: darkblue;
+    color: gray;
     
   }
   
