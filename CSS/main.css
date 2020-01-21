@@ -17,7 +17,7 @@ body{
 
 .topnav {
     overflow: hidden;
-   background-color: rgba(213, 207, 209, 0.3); 
+   background-color: light-gray; 
     width: 100%;
     position: fixed; 
     top: 0;
