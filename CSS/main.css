@@ -45,7 +45,7 @@ body{
   }
   
   .topnav a.active {
-    color: gray;
+    color: none;
     
   }
   
