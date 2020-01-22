@@ -10,8 +10,9 @@ body{
     margin-left: 40px;
     /* margin-right: 640px; */
     /* margin-right: 20px; */
-    margin: 20px 105px; 
+    margin: 20px 35px; 
     border: 4px solid;
+    float: right;
 }
 
 
