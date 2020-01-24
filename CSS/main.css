@@ -240,6 +240,7 @@ section.content{
     margin: 2.5em;
     flex: 33.33%;
    text-align: left; 
+    line-height: 1.4em;
 }
 
 .my-title{
