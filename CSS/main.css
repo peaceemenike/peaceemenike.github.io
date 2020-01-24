@@ -232,7 +232,7 @@ section.content{
 .skills{
   margin-bottom: 2em; 
   /* height: 500px; */
-/*   line-height: 1.5; */
+  line-height: 1.5em;
 }
 
 .skill{
@@ -240,7 +240,7 @@ section.content{
     margin: 2.5em;
     flex: 33.33%;
    text-align: left; 
-    line-height: 1.4em;
+    line-height: 1.5em;
 }
 
 .my-title{
