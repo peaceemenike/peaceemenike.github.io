@@ -150,7 +150,8 @@ section.content{
     margin: 0 auto;
     margin:0 2em;
     font-size: large;
-  text-align: start; 
+  text-align: start;
+    letter-spacing: 1.4em;
 }
 .aboutme-title{
     font-size: 3em;
