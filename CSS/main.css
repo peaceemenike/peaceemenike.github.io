@@ -8,13 +8,9 @@ body{
 /* logo */
 .logo{
     margin-left: 40px;
-    /* margin-right: 640px; */
-    /* margin-right: 20px; */
-    margin: 20px 35px; 
     border: 4px solid;
-   
-    
-    
+    float: left;
+    margin-top: 20px;
 }
 
 
@@ -23,77 +19,81 @@ body{
    background-color: black; 
     width: 100%;
     position: fixed; 
-    top: 0;
-/*     float: right; */
-    /* background-color: #333; */
+    top: 0px;
   }
+
   
   .topnav a {
-    float: right;  
-    display: block;
     color: white;
     text-align: center;
-    padding: 30px 0.1px;
     text-decoration: none;
     font-size: larger;
     font-weight: bolder;
-    margin-left: 30px;
-    margin-right:18px;
-    
-    /* position: fixed; */
-    /* margin-top: 30px; */
+    margin-right: 38px;
+    position: relative;
+    top: 30px;
   }
+
+
+  .topnav,a{
+      text-align: right;
+  }
+
   
   .topnav a:hover {
     color: blue;
   }
+
   
   .topnav a.active {
-    color: none;
-    
+    color: none; 
   }
+
   
   .topnav .icon {
     display: none;
   }
+
   
   @media screen and (max-width: 800px) {
     .topnav a:not(:first-child) {display: none;}
     .topnav a.icon {
     float: right; 
-      display: block;
+    display: block;
     }
   }
+
   
   @media screen and (max-width: 800px) {
-    .topnav.responsive {position: relative;}
+    .topnav.responsive {position: relative;height: 230px;}
     .topnav.responsive .icon {
       position: absolute;
-      right: 0;
-      top: 0;
-       
-      
+      right: 0px;
+      top: 10px;   
     }
+
+
     .topnav.responsive a {
       float: none;
       display: block;
       text-align: left;
-      padding: .0099em;
-      margin-left: 25px;
-      margin-top: 10px;
-     
+      margin-left: 105px;
+      margin-top: 8px;
+      position: relative;
+      top: 80px;
+      right: 60px;
     }
   }
+  
 
 /* slide show */
 img#slideshow{
-    /* border-bottom: 3px solid; */
     border-radius: 50%;
     width: 200px; 
     height: 200px;
     margin-top: 70px;
-
 }
+
 
 #img-container{
     text-align: center;
@@ -104,9 +104,10 @@ img#slideshow{
 
 /* content page */
 section.content{
-    text-align: center;
-    
+    text-align: center;   
 }
+
+
 .body{
     background-color: black;
     color: white;
@@ -120,13 +121,11 @@ section.content{
         display: flex;
         max-width: 1500px;
         margin: 0 auto;
-        /* padding-right: 20px; */
       text-align: left;  
     }
     .img{
         background-size: cover;
         background-attachment: fixed; 
-        /* margin-top: 25px;    */
     }
 }
 
@@ -135,15 +134,18 @@ section.content{
   margin-bottom: 4em; 
   margin: 0 auto;
 }
+
+
 .img{
     width: 100%;  
     margin-top: inherit; 
-
 }
+
+
 .aboutme-text{
     margin-top: inherit;
-    /* letter-spacing: 2px; */
 }
+
 
 .about{
     max-width: 1500px;
@@ -153,24 +155,34 @@ section.content{
   text-align: start;
     line-height: 1.4em;
 }
+
+
 .aboutme-title{
     font-size: 3em;
 }
+
+
 .address>a{
     padding-right: 18px;
     text-decoration: none;
     cursor: pointer;
     color: darkblue;
 }
+
+
 .address:hover{
     color: blue;
 
 }
+
+
 @media (max-width:700px){
 .address{
     display: flex;
     flex-direction: column;
 }
+
+
 .address>a{
     padding-bottom: 10px;
 }
@@ -193,10 +205,14 @@ section.content{
     text-align: end;
     border-radius: 3px;
 }
+
+
 .btn:hover{
     background-color: darkblue;
     color: white;
 }
+
+
 .my-skills{
     background-image: url(../img/my\ services4.jpg);
     background-color: var(--clr-accent);
@@ -206,10 +222,14 @@ section.content{
     color: white; 
     text-align: center; 
 }
+
+
 .title-skills{
     position: relative;
     font-size: 3em;
 }
+
+
 .title-skills::after::after{
     content: '';
     display: block;
@@ -217,9 +237,12 @@ section.content{
     height: 1px;
     margin: 0.5em auto 1em;
 }
+
+
 .skill>p{
     font-size: 20px;
 }
+
 
 @media (min-width: 800px) {
     .skills {
@@ -229,11 +252,13 @@ section.content{
      text-align: left;  
     }
 }
+
+
 .skills{
   margin-bottom: 2em; 
-  /* height: 500px; */
   line-height: 1.5em;
 }
+
 
 .skill{
     max-width: 1500px;
@@ -243,13 +268,16 @@ section.content{
     line-height: 1.5em;
 }
 
+
 .my-title{
     padding: 1em 0 0 0;
 }
 
+
 *{
     box-sizing: border-box;
 }
+
 
 /* portfolio styling */
 @media (min-width: 760px) {
@@ -272,6 +300,8 @@ section.content{
   text-align: justify; 
   padding: 10px;
 }
+
+
 .portfolio-column>a:hover{
     background-color: darkblue;
     color: white;
@@ -285,9 +315,11 @@ section.content{
     margin: 1em
 }
 
+
 .portfolio-title{
     font-size: 3em;
 }
+
 
 .connect{
     margin-top:30px;
@@ -308,11 +340,12 @@ section.content{
     border: 1px solid;
     
 }
+
+
 .social-media:hover{
     background: darkblue;
     color: white;
 }
-
 
 
 
@@ -322,8 +355,8 @@ footer{
     background: rgba(213, 207, 209, 0.3);
     width: 100%;
     margin-top: 25px;
-    /* height: 150px; */
 }
+
 
 #footer-text{
     height: 50px;
@@ -332,7 +365,5 @@ footer{
     font-weight: bolder;
     font-size: large;
 }
-
-
 
 
