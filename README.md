@@ -1,3 +1,15 @@
 # peaceemenike.github.io
 
-This is my portfolio website. Here, you'll find information about my projects, skills, and experiences. Stay tuned for more updates!!
+# Hi, I'm PEACE
+
+I'm a **Data Scientist** and **Software Engineer**. I specialize in solving real-world problems through data-driven solutions, AI, and scalable software systems.
+
+With a Master's in Data Science and ongoing work in **machine learning for agricultural sustainability**, I also lead projects that intersect data science with impactful technology.
+
+I'm passionate about:
+- Building intelligent systems
+- Solving complex problems with ML & AI
+- Coaching and mentoring professionals
+- Creating tech-powered solutions in business and fashion
+
+Let’s connect and create something meaningful.
