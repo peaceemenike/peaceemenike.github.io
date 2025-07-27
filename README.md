@@ -4,7 +4,7 @@
 
 I'm a **Data Scientist** and **Software Engineer**. I specialize in solving real-world problems through data-driven solutions, AI, and scalable software systems.
 
-With a Master's in Data Science and ongoing work in **machine learning for agricultural sustainability**, I also lead projects that intersect data science with impactful technology.
+With a Master's in Data Science and ongoing work in **machine learning**, I also lead projects that intersect data science with impactful technology.
 
 I'm passionate about:
 - Building intelligent systems
