@@ -8,7 +8,7 @@ With a Master's in Data Science and ongoing work in **Machine Learning and  Arti
 
 I'm passionate about:
 * Building intelligent systems
-* Solving complex problems with ML & AI
+* Solving complex problems with Machine Learning & Artificial Intelligent
 * Coaching and mentoring professionals
 * Creating tech-powered solutions in business and fashion
 
