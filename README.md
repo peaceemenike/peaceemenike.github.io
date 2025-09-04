@@ -1,6 +1,6 @@
 # peaceemenike.github.io
 
-# Hey, I'm PEACE
+# Hey, I'm PEACE CHINEMERE
 
 I'm a **PhD student** at UDLAP, **Data Scientist** and **Front-end Engineer**. I specialize in solving real-world problems through data-driven solutions, AI, and scalable software systems.
 
