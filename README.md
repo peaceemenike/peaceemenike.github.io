@@ -12,4 +12,4 @@ I'm passionate about:
 * Coaching and mentoring professionals
 * Creating tech-powered solutions in business and fashion
 
-Let’s connect and create something meaningful. 🤝
+Let’s connect and create something good and meaningful. 🤝
