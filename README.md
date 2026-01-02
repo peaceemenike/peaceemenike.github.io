@@ -2,14 +2,14 @@
 
 # Hey, I'm PEACE
 
-I'm a **PhD student** at UDLAP, **Data Scientist** and **Front-end Engineer**. I specialize in solving real-world problems through data-driven solutions, AI, and scalable software systems.
+I'm a **PhD student** at UDLAP, **Data Scientist**, and **Front-end Engineer**. I specialize in solving real-world problems through data-driven solutions, AI, and scalable software systems.
 
 With a Master's in Data Science and ongoing work in **Machine Learning and  Artificial Intelligent** in my PHD, I also lead projects that intersect data science with impactful technology.
 
 I'm passionate about:
 * Building intelligent systems
-* Solving complex problems with Machine Learning & Artificial Intelligent
+* Solving complex problems with Machine Learning & Artificial Intelligence
 * Coaching and mentoring professionals
-* Creating tech-powered solutions in business and fashion
+* Creating tech-powered solutions in business, health, Engineering, and fashion
 
 Let’s connect and create something good and meaningful. 🤝
